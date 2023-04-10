@@ -17,6 +17,18 @@ Demo Of My Game In Batch You Can Create Custom levels For Now You Can Only Wall 
 # # # # # # # # # #
 ```
 - Or This
+```
+# # # # # # # # # #
+W # # # # W W W # W
+# # W # # # # # # #
+# # # W # # # # # #
+# # # W W W W W # #
+# # # W # # # # W #
+# # # # # # # # # #
+# # W ↑ W W # # # #
+# # # W # # # # # #
+# # # # # # # # # #
+```
 
 
 ###### Avaiable Inputs:
