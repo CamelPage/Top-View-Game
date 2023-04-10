@@ -38,7 +38,7 @@ W # # # # W W W # W
 - d | moves one tile to the right
 - w | moves one tile up
 - s | moves one tile down
-- e | you can place a movatable wall | after entering "e" then the terminal will ask you for x and y where to place the wall
+- e | you can place a movetable wall | after entering "e" then the terminal will ask you for x and y where to place the wall
 
 ###### You Can Add Macros For Ex.
 
