@@ -17,9 +17,9 @@ d
 d
 d
 d
+d
 s
 s
-w
 s
 s
 s
@@ -28,9 +28,12 @@ a
 a
 a
 w
-a
-s
 w
+d
+d
+e
+5
+6
 
 ```
 
