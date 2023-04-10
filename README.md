@@ -3,6 +3,20 @@ Top View Game In Batch
 
 Demo Of My Game In Batch You Can Create Custom levels For Now You Can Only Wall :( But I Will Add More Things Soon | Player Starts at 2x2
 
+###### The Game Board Looks Like This
+```
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+# # # # # # # # # #
+```
+
 ###### Avaiable Inputs:
 - a | moves one tile to the left
 - d | moves one tile to the right
