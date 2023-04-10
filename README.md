@@ -6,8 +6,8 @@ Demo Of My Game In Batch You Can Create Custom levels For Now You Can Only Wall 
 ###### The Game Board Looks Like This
 ```
 # # # # # # # # # #
+# p # # # # # # # #
 # # # # # # # # # #
-# # # # # p # # # #
 # # # # # # # # # #
 # # # W W W W W # #
 # # # # # # # # W #
@@ -31,6 +31,7 @@ W # # # # W W W # W
 ```
 - W is a wall
 - ↑ is the player
+- p is player starting position
 
 ###### Avaiable Inputs:
 - a | moves one tile to the left
