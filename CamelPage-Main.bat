@@ -80,11 +80,11 @@ echo B %list_2[1]% %list_2[2]% %list_2[3]% %list_2[4]% %list_2[5]% %list_2[6]% %
 echo C %list_3[1]% %list_3[2]% %list_3[3]% %list_3[4]% %list_3[5]% %list_3[6]% %list_3[7]% %list_3[8]% %list_3[9]% %list_3[10]%
 echo D %list_4[1]% %list_4[2]% %list_4[3]% %list_4[4]% %list_4[5]% %list_4[6]% %list_4[7]% %list_4[8]% %list_4[9]% %list_4[10]%
 echo E %list_5[1]% %list_5[2]% %list_5[3]% %list_5[4]% %list_5[5]% %list_5[6]% %list_5[7]% %list_5[8]% %list_5[9]% %list_5[10]%
-echo A %list_6[1]% %list_6[2]% %list_6[3]% %list_6[4]% %list_6[5]% %list_6[6]% %list_6[7]% %list_6[8]% %list_6[9]% %list_6[10]%
-echo B %list_7[1]% %list_7[2]% %list_7[3]% %list_7[4]% %list_7[5]% %list_7[6]% %list_7[7]% %list_7[8]% %list_7[9]% %list_7[10]%
-echo C %list_8[1]% %list_8[2]% %list_8[3]% %list_8[4]% %list_8[5]% %list_8[6]% %list_8[7]% %list_8[8]% %list_8[9]% %list_8[10]%
-echo D %list_9[1]% %list_9[2]% %list_9[3]% %list_9[4]% %list_9[5]% %list_9[6]% %list_9[7]% %list_9[8]% %list_9[9]% %list_9[10]%
-echo E %list_10[1]% %list_10[2]% %list_10[3]% %list_10[4]% %list_10[5]% %list_10[6]% %list_10[7]% %list_10[8]% %list_10[9]% %list_10[10]%
+echo F %list_6[1]% %list_6[2]% %list_6[3]% %list_6[4]% %list_6[5]% %list_6[6]% %list_6[7]% %list_6[8]% %list_6[9]% %list_6[10]%
+echo G %list_7[1]% %list_7[2]% %list_7[3]% %list_7[4]% %list_7[5]% %list_7[6]% %list_7[7]% %list_7[8]% %list_7[9]% %list_7[10]%
+echo H %list_8[1]% %list_8[2]% %list_8[3]% %list_8[4]% %list_8[5]% %list_8[6]% %list_8[7]% %list_8[8]% %list_8[9]% %list_8[10]%
+echo I %list_9[1]% %list_9[2]% %list_9[3]% %list_9[4]% %list_9[5]% %list_9[6]% %list_9[7]% %list_9[8]% %list_9[9]% %list_9[10]%
+echo J %list_10[1]% %list_10[2]% %list_10[3]% %list_10[4]% %list_10[5]% %list_10[6]% %list_10[7]% %list_10[8]% %list_10[9]% %list_10[10]%
 
 
 set /p char=: 
