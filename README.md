@@ -29,7 +29,8 @@ W # # # # W W W # W
 # # # W # # # # # #
 # # # # # # # # # #
 ```
-
+- W is a wall
+- ↑ is the player
 
 ###### Avaiable Inputs:
 - a | moves one tile to the left
