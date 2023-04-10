@@ -68,4 +68,4 @@ e
 6
 
 ```
-- This Will Move 5 Times Right Then 5 Times Down And So On You Get The Point
+- This Will Move 6 Times Right Then 6 Times Down And So On You Get The Point
