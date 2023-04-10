@@ -8,4 +8,5 @@ Demo Of My Game In Batch You Can Create Custom levels For Now You Can Only Wall 
 - d | moves one tile to the right
 - w | moves one tile up
 - s | moves one tile down
+- e | you can place a movatable wall | after entering "e" then the terminal will ask you for x and y where to place the wall
 
