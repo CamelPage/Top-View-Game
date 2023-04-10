@@ -10,8 +10,8 @@ set /a max_bb=%max_b%
 set /a max_a+=1
 set /a max_b+=1
 set /a x=1
-set /a a=3
-set /a b=3
+set /a a=2
+set /a b=2
 :Simloop
 set list_1[%x%]=#
 set list_2[%x%]=#
@@ -109,4 +109,3 @@ goto sim
 :wall
 set list_%1[%2]=W
 if %a%==%2 if %b%==%1 (set /a a=%pp_a% & set /a b=%pp_b%)
-: brk 
