@@ -16,6 +16,8 @@ Demo Of My Game In Batch You Can Create Custom levels For Now You Can Only Wall 
 # # # # # # # # # #
 # # # # # # # # # #
 ```
+- Or This
+
 
 ###### Avaiable Inputs:
 - a | moves one tile to the left
