@@ -10,3 +10,27 @@ Demo Of My Game In Batch You Can Create Custom levels For Now You Can Only Wall 
 - s | moves one tile down
 - e | you can place a movatable wall | after entering "e" then the terminal will ask you for x and y where to place the wall
 
+###### You Can Add Macros For Ex.
+
+```
+d
+d
+d
+d
+s
+s
+w
+s
+s
+s
+a
+a
+a
+a
+w
+a
+s
+w
+
+```
+
