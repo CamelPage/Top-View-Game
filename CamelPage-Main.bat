@@ -1,4 +1,4 @@
-@echo off
+@echo on
 chcp 65001>NUL
 
 set /a max_a=10
